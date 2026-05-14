@@ -8,6 +8,7 @@ import (
 
 func main() {
 	g := &Game{}
+	// testing crlf -> lf conversion
 
 	ebiten.SetWindowSize(640, 480)
 	ebiten.SetWindowTitle("Hello World")
