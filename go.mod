@@ -1,4 +1,4 @@
-module game
+module github.com/caitenwhite/bit-dungeon
 
 go 1.25.6
 
