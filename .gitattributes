@@ -1,0 +1,7 @@
+# git attributes
+
+# explicitly declare .ps files as binary so Github generates a binary files diff
+*.ps -diff
+
+# Set the default behavior for Github to convert line endings to LF
+* text eol=lf
