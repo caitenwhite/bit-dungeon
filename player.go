@@ -5,4 +5,4 @@ import (
 	//"github.com/hajimehoshi/ebiten/v2"
 )
 
-var PlayerSprite = vessels.MustLoadSprite("assets/Players/tile_0097.png")
+var PlayerSprite = vessels.MustLoadSprite("assets/Vessels/tile_0097.png")
